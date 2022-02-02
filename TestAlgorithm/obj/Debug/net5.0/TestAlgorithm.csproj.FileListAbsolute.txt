@@ -1,0 +1,15 @@
+/Users/macos/Projects/Algorithms/Algorithms/TestAlgorithm/bin/Debug/net5.0/TestAlgorithm.deps.json
+/Users/macos/Projects/Algorithms/Algorithms/TestAlgorithm/bin/Debug/net5.0/TestAlgorithm.runtimeconfig.json
+/Users/macos/Projects/Algorithms/Algorithms/TestAlgorithm/bin/Debug/net5.0/TestAlgorithm.runtimeconfig.dev.json
+/Users/macos/Projects/Algorithms/Algorithms/TestAlgorithm/bin/Debug/net5.0/TestAlgorithm.dll
+/Users/macos/Projects/Algorithms/Algorithms/TestAlgorithm/bin/Debug/net5.0/ref/TestAlgorithm.dll
+/Users/macos/Projects/Algorithms/Algorithms/TestAlgorithm/bin/Debug/net5.0/TestAlgorithm.pdb
+/Users/macos/Projects/Algorithms/Algorithms/TestAlgorithm/obj/Debug/net5.0/TestAlgorithm.csproj.AssemblyReference.cache
+/Users/macos/Projects/Algorithms/Algorithms/TestAlgorithm/obj/Debug/net5.0/TestAlgorithm.GeneratedMSBuildEditorConfig.editorconfig
+/Users/macos/Projects/Algorithms/Algorithms/TestAlgorithm/obj/Debug/net5.0/TestAlgorithm.AssemblyInfoInputs.cache
+/Users/macos/Projects/Algorithms/Algorithms/TestAlgorithm/obj/Debug/net5.0/TestAlgorithm.AssemblyInfo.cs
+/Users/macos/Projects/Algorithms/Algorithms/TestAlgorithm/obj/Debug/net5.0/TestAlgorithm.csproj.CoreCompileInputs.cache
+/Users/macos/Projects/Algorithms/Algorithms/TestAlgorithm/obj/Debug/net5.0/TestAlgorithm.dll
+/Users/macos/Projects/Algorithms/Algorithms/TestAlgorithm/obj/Debug/net5.0/ref/TestAlgorithm.dll
+/Users/macos/Projects/Algorithms/Algorithms/TestAlgorithm/obj/Debug/net5.0/TestAlgorithm.pdb
+/Users/macos/Projects/Algorithms/Algorithms/TestAlgorithm/obj/Debug/net5.0/TestAlgorithm.genruntimeconfig.cache

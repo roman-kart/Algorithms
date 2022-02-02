@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{3F7240B0-3394-4629-A471-281795D53DEF}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="TestAlgorithm/Program.cs">
+    <Files>
+      <File FileName="TestAlgorithm/Program.cs" Line="35" Column="39" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="TestAlgorithm" expanded="True">
+            <Node name="TestAlgorithm" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.TestAlgorithm PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
