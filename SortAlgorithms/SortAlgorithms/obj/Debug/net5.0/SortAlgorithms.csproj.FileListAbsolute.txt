@@ -1,0 +1,15 @@
+/Users/macos/Projects/Algorithms/Algorithms/SortAlgorithms/SortAlgorithms/bin/Debug/net5.0/SortAlgorithms.deps.json
+/Users/macos/Projects/Algorithms/Algorithms/SortAlgorithms/SortAlgorithms/bin/Debug/net5.0/SortAlgorithms.runtimeconfig.json
+/Users/macos/Projects/Algorithms/Algorithms/SortAlgorithms/SortAlgorithms/bin/Debug/net5.0/SortAlgorithms.runtimeconfig.dev.json
+/Users/macos/Projects/Algorithms/Algorithms/SortAlgorithms/SortAlgorithms/bin/Debug/net5.0/SortAlgorithms.dll
+/Users/macos/Projects/Algorithms/Algorithms/SortAlgorithms/SortAlgorithms/bin/Debug/net5.0/ref/SortAlgorithms.dll
+/Users/macos/Projects/Algorithms/Algorithms/SortAlgorithms/SortAlgorithms/bin/Debug/net5.0/SortAlgorithms.pdb
+/Users/macos/Projects/Algorithms/Algorithms/SortAlgorithms/SortAlgorithms/obj/Debug/net5.0/SortAlgorithms.csproj.AssemblyReference.cache
+/Users/macos/Projects/Algorithms/Algorithms/SortAlgorithms/SortAlgorithms/obj/Debug/net5.0/SortAlgorithms.GeneratedMSBuildEditorConfig.editorconfig
+/Users/macos/Projects/Algorithms/Algorithms/SortAlgorithms/SortAlgorithms/obj/Debug/net5.0/SortAlgorithms.AssemblyInfoInputs.cache
+/Users/macos/Projects/Algorithms/Algorithms/SortAlgorithms/SortAlgorithms/obj/Debug/net5.0/SortAlgorithms.AssemblyInfo.cs
+/Users/macos/Projects/Algorithms/Algorithms/SortAlgorithms/SortAlgorithms/obj/Debug/net5.0/SortAlgorithms.csproj.CoreCompileInputs.cache
+/Users/macos/Projects/Algorithms/Algorithms/SortAlgorithms/SortAlgorithms/obj/Debug/net5.0/SortAlgorithms.dll
+/Users/macos/Projects/Algorithms/Algorithms/SortAlgorithms/SortAlgorithms/obj/Debug/net5.0/ref/SortAlgorithms.dll
+/Users/macos/Projects/Algorithms/Algorithms/SortAlgorithms/SortAlgorithms/obj/Debug/net5.0/SortAlgorithms.pdb
+/Users/macos/Projects/Algorithms/Algorithms/SortAlgorithms/SortAlgorithms/obj/Debug/net5.0/SortAlgorithms.genruntimeconfig.cache

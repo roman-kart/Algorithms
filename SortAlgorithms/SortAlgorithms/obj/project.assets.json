@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/macos/Projects/Algorithms/Algorithms/SortAlgorithms/SortAlgorithms/SortAlgorithms.csproj",
-      "projectName": "SortAlgorithms",
-      "projectPath": "/Users/macos/Projects/Algorithms/Algorithms/SortAlgorithms/SortAlgorithms/SortAlgorithms.csproj",
+      "projectUniqueName": "/Users/macos/Projects/Algorithms/Algorithms/SortAlgorithms/SortAlgorithms/SortAndSearchAlgorithms.csproj",
+      "projectName": "SortAndSearchAlgorithms",
+      "projectPath": "/Users/macos/Projects/Algorithms/Algorithms/SortAlgorithms/SortAlgorithms/SortAndSearchAlgorithms.csproj",
       "packagesPath": "/Users/macos/.nuget/packages/",
       "outputPath": "/Users/macos/Projects/Algorithms/Algorithms/SortAlgorithms/SortAlgorithms/obj/",
       "projectStyle": "PackageReference",
