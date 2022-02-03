@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Diagnostics;
 
 namespace SortAndSearchAlgorithms
 {
@@ -49,6 +50,7 @@ namespace SortAndSearchAlgorithms
         #region Binary Search Algorithm
         public static int BinarySeacrhAlgorithm<type>(type[] items, type item) where type : IEquatable<type>, IComparable<type>
         {
+            //Console.WriteLine($"Binary search algorithm start : {new TimeSpan(DateTime.Now.Ticks)}");
             int m = 0;
             int left = 0;
             int right = items.Length - 1;
@@ -65,6 +67,7 @@ namespace SortAndSearchAlgorithms
                     right = m - 1;
                 }
             } while ((!items[m].Equals(item)) && left <= right);
+            //Console.WriteLine($"Binary search algorithm end : {new TimeSpan(DateTime.Now.Ticks)}");
             if (items[m].Equals(item))
             {
                 return m;

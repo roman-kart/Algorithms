@@ -1,4 +1,7 @@
 ﻿using System;
+using System.Collections.Generic;
+using System.Diagnostics;
+
 namespace SortAndSearchAlgorithms
 {
     /// <summary>
@@ -6,10 +9,10 @@ namespace SortAndSearchAlgorithms
     /// Реализует интерфейс IAlgorithm.
     /// </summary>
     /// <typeparam name="type"></typeparam>
-    public class SearchAlgorithm<type> : IAlgorithm where type: IEquatable<type> ,IComparable<type>
+    public class SearchAlgorithm<type> : IAlgorithm where type: IEquatable<type>, IComparable<type>
     {
-        public type[] items;
-        public type itemForSearch;
+        public type[] items { get; set; }
+        public type itemForSearch { get; set; }
         /// <summary>
         /// Делегат для хранения алгоритма поиска.
         /// Возвращает индекс найденного элемента или -1, если элемент не найден.
@@ -36,9 +39,11 @@ namespace SortAndSearchAlgorithms
         /// <summary>
         /// Выполняет алгоритм вместе с указанными данными
         /// </summary>
-        public virtual void Execute()
+        public void Execute()
         {
-            this.algorithm?.Invoke(items, itemForSearch);
+            Console.WriteLine($"Execute(this.algorithm) : {new TimeSpan(DateTime.Now.Ticks)}");
+            this.algorithm(items, itemForSearch); // TODO разобраться с проблемой, почему перед выполнением делегата такая большая задержка
+            Console.WriteLine($"After Execute(this.algorithm) : {new TimeSpan(DateTime.Now.Ticks)}");
         }
     }
 }

@@ -20,6 +20,16 @@ namespace SortAndSearchAlgorithms
             Console.WriteLine($"Time of execution: {timer.Elapsed}");
             CollectGarbage(); 
         }
+        public static void TimeOfExecutionTest(Action algorithm)
+        {
+            CollectGarbage();
+            var timer = new Stopwatch();
+            timer.Start();
+            algorithm();
+            timer.Stop();
+            Console.WriteLine($"Time of execution: {timer.Elapsed}");
+            CollectGarbage();
+        }
         public static void CollectGarbage()
         {
             GC.Collect();

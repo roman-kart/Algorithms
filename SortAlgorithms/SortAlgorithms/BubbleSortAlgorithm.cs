@@ -3,9 +3,8 @@ namespace SortAndSearchAlgorithms
 {
     public class BubbleSortAlgorithm
     {
-        public static void SortAscending<type>(type[] items) where type : IComparable<type>
+        public static void SortAscending<type>(type[] items) where type : IComparable<type>, IEquatable<type>
         {
-            type tmp; // хранение временного результата
             for (int i = 0; i < (items.Length - 1); i++)
             {
                 type min = items[i]; // минимальный элемент изначально самый левый элемент

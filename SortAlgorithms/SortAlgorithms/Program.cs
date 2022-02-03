@@ -8,24 +8,31 @@ namespace SortAndSearchAlgorithms
     {
         static void Main(string[] args)
         {
-            var itemsSortedList = new List<int>();
-            for (int i = 0; i < 214700000; i++)
+            Random rand = new Random();
+            var randomItems = new int[2000];
+            for (int i = 0; i < randomItems.Length; i++)
             {
-                itemsSortedList.Add(i);
+                randomItems[i] = rand.Next(-1000, 1000);
             }
-            var itemsSorted = itemsSortedList.ToArray();
 
-            var timer = new Stopwatch();
+            var bubbleSort = new SortAlgorithm<int>(
+                BubbleSortAlgorithm.SortAscending<int>,
+                randomItems
+            );
+
+            ExecutionTimer.TimeOfExecution(bubbleSort);
+            int[] itemsSorted = new int[bubbleSort.items.Length];
+            Array.Copy(bubbleSort.items, itemsSorted, itemsSorted.Length);
 
             var simpleSearchInt = new SearchAlgorithm<int>(
                 SearchAlgorithms.SimpleSearch<int>,
                 itemsSorted,
-                678000
+                100
             );
             var binarySearchInt = new SearchAlgorithm<int>(
                 SearchAlgorithms.BinarySeacrhAlgorithm<int>,
                 itemsSorted,
-                678000
+                100
             );
             ExecutionTimer.TimeOfExecution(simpleSearchInt);
             ExecutionTimer.TimeOfExecution(binarySearchInt);
