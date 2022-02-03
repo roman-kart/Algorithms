@@ -15,7 +15,7 @@ namespace SortAndSearchAlgorithms
         /// Else return -1.
         ///</para>
         ///</summary>
-        public static int SimpleSearch<type>(type[] items, type item) where type : IEquatable<type>
+        public static int SimpleSearch<type>(type[] items, type item) where type : IEquatable<type>, IComparable<type>
         {
             var length = items.Length;
             int i = 0;

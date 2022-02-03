@@ -17,9 +17,18 @@ namespace SortAndSearchAlgorithms
 
             var timer = new Stopwatch();
 
-
-            SearchAlgorithmTimer.TimeOfExecution<int>(SearchAlgorithms.SimpleSearch, itemsSorted, 234900);
-            SearchAlgorithmTimer.TimeOfExecution<int>(SearchAlgorithms.BinarySeacrhAlgorithm, itemsSorted, 234900);
+            var simpleSearchInt = new SearchAlgorithm<int>(
+                SearchAlgorithms.SimpleSearch<int>,
+                itemsSorted,
+                678000
+            );
+            var binarySearchInt = new SearchAlgorithm<int>(
+                SearchAlgorithms.BinarySeacrhAlgorithm<int>,
+                itemsSorted,
+                678000
+            );
+            ExecutionTimer.TimeOfExecution(simpleSearchInt);
+            ExecutionTimer.TimeOfExecution(binarySearchInt);
         }
     }
 }

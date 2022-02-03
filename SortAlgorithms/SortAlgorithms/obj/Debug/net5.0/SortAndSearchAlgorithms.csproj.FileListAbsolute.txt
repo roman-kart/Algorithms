@@ -4,7 +4,6 @@
 /Users/macos/Projects/Algorithms/Algorithms/SortAlgorithms/SortAlgorithms/bin/Debug/net5.0/SortAndSearchAlgorithms.dll
 /Users/macos/Projects/Algorithms/Algorithms/SortAlgorithms/SortAlgorithms/bin/Debug/net5.0/ref/SortAndSearchAlgorithms.dll
 /Users/macos/Projects/Algorithms/Algorithms/SortAlgorithms/SortAlgorithms/bin/Debug/net5.0/SortAndSearchAlgorithms.pdb
-/Users/macos/Projects/Algorithms/Algorithms/SortAlgorithms/SortAlgorithms/obj/Debug/net5.0/SortAndSearchAlgorithms.csproj.AssemblyReference.cache
 /Users/macos/Projects/Algorithms/Algorithms/SortAlgorithms/SortAlgorithms/obj/Debug/net5.0/SortAndSearchAlgorithms.GeneratedMSBuildEditorConfig.editorconfig
 /Users/macos/Projects/Algorithms/Algorithms/SortAlgorithms/SortAlgorithms/obj/Debug/net5.0/SortAndSearchAlgorithms.AssemblyInfoInputs.cache
 /Users/macos/Projects/Algorithms/Algorithms/SortAlgorithms/SortAlgorithms/obj/Debug/net5.0/SortAndSearchAlgorithms.AssemblyInfo.cs

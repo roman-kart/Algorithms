@@ -1,17 +1,20 @@
 ﻿<Properties StartupConfiguration="{1E047A13-C70F-446A-8010-EDAAFE38E1FE}|Default">
   <MonoDevelop.Ide.ItemProperties.SortAndSearchAlgorithms PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="SortAlgorithms/Program.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="SortAlgorithms/IAlgorithm.cs">
     <Files>
-      <File FileName="SortAlgorithms/Program.cs" Line="12" Column="26" />
-      <File FileName="SortAlgorithms/SearchAlgorithms.cs" Line="45" Column="34" />
-      <File FileName="SortAlgorithms/SearchAlgorithmTimer.cs" Line="14" Column="27" />
+      <File FileName="SortAlgorithms/Program.cs" Line="25" Column="38" />
+      <File FileName="SortAlgorithms/SearchAlgorithms.cs" Line="18" Column="119" />
+      <File FileName="SortAlgorithms/BubbleSortAlgorithm.cs" Line="7" Column="10" />
+      <File FileName="SortAlgorithms/ALgorithmTimer.cs" Line="8" Column="28" />
+      <File FileName="SortAlgorithms/Algorithm.cs" Line="6" Column="31" />
+      <File FileName="SortAlgorithms/Algorithm.cs" Line="10" Column="29" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="SortAlgorithms" expanded="True">
             <Node name="SortAndSearchAlgorithms" expanded="True">
-              <Node name="Program.cs" selected="True" />
+              <Node name="IAlgorithm.cs" selected="True" />
             </Node>
           </Node>
         </State>
