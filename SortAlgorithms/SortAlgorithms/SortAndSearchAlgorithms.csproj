@@ -13,6 +13,7 @@
     <None Remove="SortAlgorithms\InsertionSort\" />
     <None Remove="Extensions\" />
     <None Remove="SortAlgorithms\ShakeSort\" />
+    <None Remove="SortAlgorithms\ShellSort\" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="SortAlgorithms\" />
@@ -23,5 +24,6 @@
     <Folder Include="Extensions\" />
     <Folder Include="SortAlgorithms\BubbleSort\" />
     <Folder Include="SortAlgorithms\ShakeSort\" />
+    <Folder Include="SortAlgorithms\ShellSort\" />
   </ItemGroup>
 </Project>

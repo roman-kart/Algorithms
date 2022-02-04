@@ -1,19 +1,21 @@
 ﻿<Properties StartupConfiguration="{1E047A13-C70F-446A-8010-EDAAFE38E1FE}|Default">
   <MonoDevelop.Ide.ItemProperties.SortAndSearchAlgorithms PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="SortAlgorithms/Program.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="SortAlgorithms/SortAlgorithms/ShellSort/StepForShellSort.cs">
     <Files>
       <File FileName="SortAlgorithms/SearchAlgorithms/SearchAlgorithms.cs" Line="1" Column="1" />
       <File FileName="SortAlgorithms/SortAlgorithms/BubbleSort/BubbleSortAlgorithm.cs" Line="4" Column="37" />
       <File FileName="SortAlgorithms/SortAlgorithms/InsertionSort/InsertionSortAlgorithm.cs" Line="12" Column="14" />
       <File FileName="SortAlgorithms/SortAlgorithms/ShakerSort/ShakerSortAlgorithm.cs" Line="4" Column="36" />
       <File FileName="SortAlgorithms/SearchAlgorithms/SearchAlgorithm.cs" Line="1" Column="1" />
-      <File FileName="SortAlgorithms/SortAlgorithms/SortAlgorithm.cs" Line="23" Column="31" />
-      <File FileName="SortAlgorithms/Program.cs" Line="39" Column="82" />
-      <File FileName="SortAlgorithms/Extensions.cs" Line="36" Column="42" />
-      <File FileName="SortAlgorithms/ExecutionTimer.cs" Line="9" Column="23" />
-      <File FileName="SortAlgorithms/SortAlgorithms/BubbleSort/BubbleSortAlgorithm.cs" Line="7" Column="10" />
-      <File FileName="SortAlgorithms/SortAlgorithms/ShakeSort/ShakeSortAlgorithm.cs" Line="7" Column="10" />
+      <File FileName="SortAlgorithms/SortAlgorithms/SortAlgorithm.cs" Line="30" Column="1" />
+      <File FileName="SortAlgorithms/Program.cs" Line="15" Column="1" />
+      <File FileName="SortAlgorithms/Extensions.cs" Line="14" Column="1" />
+      <File FileName="SortAlgorithms/ExecutionTimer.cs" Line="18" Column="1" />
+      <File FileName="SortAlgorithms/SortAlgorithms/BubbleSort/BubbleSortAlgorithm.cs" Line="26" Column="30" />
+      <File FileName="SortAlgorithms/SortAlgorithms/ShakeSort/ShakeSortAlgorithm.cs" Line="6" Column="109" />
       <File FileName="SortAlgorithms/IAlgorithm.cs" Line="1" Column="1" />
+      <File FileName="SortAlgorithms/SortAlgorithms/ShellSort/ShellSortAlgorithm.cs" Line="8" Column="1" />
+      <File FileName="SortAlgorithms/SortAlgorithms/ShellSort/StepForShellSort.cs" Line="6" Column="36" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -22,11 +24,10 @@
             <Node name="SortAndSearchAlgorithms" expanded="True">
               <Node name="Extensions" expanded="True" />
               <Node name="SortAlgorithms" expanded="True">
-                <Node name="BubbleSort" expanded="True" />
-                <Node name="InsertionSort" expanded="True" />
-                <Node name="ShakeSort" expanded="True" />
+                <Node name="ShellSort" expanded="True">
+                  <Node name="StepForShellSort.cs" selected="True" />
+                </Node>
               </Node>
-              <Node name="Program.cs" selected="True" />
             </Node>
           </Node>
         </State>

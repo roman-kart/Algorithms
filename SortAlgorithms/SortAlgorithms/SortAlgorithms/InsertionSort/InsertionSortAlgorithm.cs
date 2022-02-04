@@ -5,11 +5,6 @@ namespace SortAndSearchAlgorithms
     {
         public static void SortAscending<type>(type[] items) where type: IComparable<type>, IEquatable<type>
         {
-            // если данные невалидны - завершаем выполнение
-            if (items == null || items.Length < 2)
-            {
-                return;
-            }
             // i - элемент перед сортируемым элементом
             for (int i = 0; i < items.Length - 1; i++)
             {

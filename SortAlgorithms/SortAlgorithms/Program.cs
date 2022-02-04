@@ -9,7 +9,7 @@ namespace SortAndSearchAlgorithms
         static void Main(string[] args)
         {
             #region Генерирование списка случайных элементов
-            var randomItems = new int[5000];
+            var randomItems = new int[5];
             randomItems.InsertRandomInt(-1000, 1000);
             #endregion
 
@@ -34,7 +34,12 @@ namespace SortAndSearchAlgorithms
             );
 
             var shakeSort = new SortAlgorithm<int>(
-                SearchShakerSortAlgorithm.SortAscending<int>,
+                ShakeSortAlgorithm.SortAscending<int>,
+                randomItems.GetCopy()
+            );
+
+            var shellSort = new SortAlgorithm<int>(
+                ShellSortAlgorithm.SortAscending<int>,
                 randomItems.GetCopy()
             );
 
@@ -43,7 +48,7 @@ namespace SortAndSearchAlgorithms
             Console.WriteLine($"{ExecutionTimer.TimeOfExecution(insertionSort)} : insertionSort");
             Console.WriteLine($"{ExecutionTimer.TimeOfExecution(bubbleSort)} : bubbleSort");
             Console.WriteLine($"{ExecutionTimer.TimeOfExecution(shakeSort)} : shakeSort");
-
+            Console.WriteLine($"{ExecutionTimer.TimeOfExecution(shellSort)} : shellSort");
 
             int[] itemsSorted = searchShakerSort.items.GetCopy();
 

@@ -23,7 +23,7 @@ namespace SortAndSearchAlgorithms
             this.items = items;
 
             // вызываем алгоритм для предварительной компиляции (влияет на быстродействие)
-            this.algorithm?.Invoke(new type[1] { default(type)});
+            this.algorithm?.Invoke(new type[3] { default(type), default(type) , default(type)});
         }
         public void Execute()
         {

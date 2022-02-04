@@ -1,17 +1,17 @@
 ﻿using System;
-namespace SortAndSearchAlgorithms.SortAlgorithms.ShakeSort
+namespace SortAndSearchAlgorithms
 {
     public class ShakeSortAlgorithm
     {
         public static void SortAscending<type>(type[] items) where type: IComparable<type>, IEquatable<type>
-        {
+        { 
             type tmp;
             int leftIndex = 0;
             int rightIndex = items.Length;
             for (int i = 0; i < items.Length; i++)
             {
                 // "тяжелый" пузырек идет в конец
-                for (int j = leftIndex; j < rightIndex; j++)
+                for (int j = leftIndex; j < rightIndex - 1; j++)
                 {
                     // если текущий элемент больше следующего элемента
                     if (items[j].CompareTo(items[j + 1]) > 0)
