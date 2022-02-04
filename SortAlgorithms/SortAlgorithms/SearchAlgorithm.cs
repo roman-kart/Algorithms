@@ -28,6 +28,8 @@ namespace SortAndSearchAlgorithms
         public SearchAlgorithm(AlgorithmFunc algorithm)
         {
             this.algorithm = algorithm;
+
+            this.algorithm?.Invoke(new type[1] { default(type) }, default(type));
         }
 
         public SearchAlgorithm(AlgorithmFunc algorithm, type[] items, type itemForSearch)
@@ -35,15 +37,16 @@ namespace SortAndSearchAlgorithms
             this.algorithm = algorithm;
             this.items = items;
             this.itemForSearch = itemForSearch;
+
+            // вызываем алгоритм для предварительной компиляции (влияет на быстродействие)
+            this.algorithm?.Invoke(new type[1] { default(type) }, default(type));
         }
         /// <summary>
         /// Выполняет алгоритм вместе с указанными данными
         /// </summary>
         public void Execute()
         {
-            Console.WriteLine($"Execute(this.algorithm) : {new TimeSpan(DateTime.Now.Ticks)}");
-            this.algorithm(items, itemForSearch); // TODO разобраться с проблемой, почему перед выполнением делегата такая большая задержка
-            Console.WriteLine($"After Execute(this.algorithm) : {new TimeSpan(DateTime.Now.Ticks)}");
+            this.algorithm(items, itemForSearch);
         }
     }
 }

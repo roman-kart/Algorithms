@@ -21,6 +21,9 @@ namespace SortAndSearchAlgorithms
         {
             this.algorithm = algorithm;
             this.items = items;
+
+            // вызываем алгоритм для предварительной компиляции (влияет на быстродействие)
+            this.algorithm?.Invoke(new type[1] { default(type)});
         }
         public void Execute()
         {
