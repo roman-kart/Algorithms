@@ -8,21 +8,24 @@ namespace SortAndSearchAlgorithms
     {
         static void Main(string[] args)
         {
-            Random rand = new Random();
+            #region Генерирование списка случайных элементов
             var randomItems = new int[2000];
-            for (int i = 0; i < randomItems.Length; i++)
-            {
-                randomItems[i] = rand.Next(-1000, 1000);
-            }
+            randomItems.InsertRandomInt(-1000, 1000);
+            #endregion
 
             var bubbleSort = new SortAlgorithm<int>(
                 BubbleSortAlgorithm.SortAscending<int>,
-                randomItems
+                randomItems.GetCopy()
+            );
+
+            var shakerSort = new SortAlgorithm<int>(
+                ShakerSortAlgorithm.SortAscending<int>,
+                randomItems.GetCopy()
             );
 
             ExecutionTimer.TimeOfExecution(bubbleSort);
-            int[] itemsSorted = new int[bubbleSort.items.Length];
-            Array.Copy(bubbleSort.items, itemsSorted, itemsSorted.Length);
+            ExecutionTimer.TimeOfExecution(shakerSort);
+            int[] itemsSorted = shakerSort.items.GetCopy();
 
             var simpleSearchInt = new SearchAlgorithm<int>(
                 SearchAlgorithms.SimpleSearch<int>,
