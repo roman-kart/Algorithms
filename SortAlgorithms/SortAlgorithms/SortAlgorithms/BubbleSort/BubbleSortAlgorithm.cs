@@ -3,25 +3,27 @@ namespace SortAndSearchAlgorithms
 {
     public class BubbleSortAlgorithm
     {
-        public static void SortAscending<type>(type[] items) where type : IComparable<type>, IEquatable<type>
+        public static void SortAscending<type>(type[] items) where type: IEquatable<type>, IComparable<type> 
         {
-            for (int i = 0; i < (items.Length - 1); i++)
+            int rightIndex = items.Length;
+            type tmp;
+            // перебираем каждый элемент
+            for (int i = 0; i < items.Length; i++)
             {
-                type min = items[i]; // минимальный элемент изначально самый левый элемент
-                int iMin = i; // индекс минимального элемента
-                // сортируем от самого левого элемента неотсортированного массива
-                for (int j = i; j < items.Length; j++)
+                // на каждой итерации перемещаем наибольший элемент в конец списка.
+                // Граница - предпоследний элемент
+                for (int j = 0; j < rightIndex - 1; j++)
                 {
-                    // если минимальный элемент больше элемента массива
-                    if (min.CompareTo(items[j]) > 0)
+                    // если текущий элемент больше следующего элемента
+                    if (items[i].CompareTo(items[i + 1]) > 0)
                     {
-                        min = items[j]; // меняем значение минимального элемента
-                        iMin = j;
+                        //меняем элементы местами
+                        tmp = items[i];
+                        items[i] = items[i + 1];
+                        items[i + 1] = tmp;
                     }
                 }
-                // меняем элементы местами
-                items[iMin] = items[i];
-                items[i] = min;
+                rightIndex--;
             }
         }
     }

@@ -1,7 +1,7 @@
 ﻿using System;
 namespace SortAndSearchAlgorithms
 {
-    public class ShakerSortAlgorithm
+    public class SearchShakerSortAlgorithm
     {
         public static void SortAscending<type>(type[] items) where type: IComparable<type>, IEquatable<type>
         {

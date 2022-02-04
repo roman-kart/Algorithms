@@ -29,5 +29,13 @@ namespace SortAndSearchAlgorithms
                 sourceArr[i] = rand.Next(min, max);
             }
         }
+        public static void PrintElements<type>(this type[] sourceArr)
+        {
+            foreach (var item in sourceArr)
+            {
+                Console.Write($"{item?.ToString()} ");
+            }
+            Console.WriteLine(); // перенос на следующую строку
+        }
     }
 }

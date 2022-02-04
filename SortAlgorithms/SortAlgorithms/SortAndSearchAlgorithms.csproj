@@ -12,13 +12,16 @@
     <None Remove="SearchAlgorithms\" />
     <None Remove="SortAlgorithms\InsertionSort\" />
     <None Remove="Extensions\" />
+    <None Remove="SortAlgorithms\ShakeSort\" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="SortAlgorithms\" />
-    <Folder Include="SortAlgorithms\ShakerSort\" />
-    <Folder Include="SortAlgorithms\BubbleSort\" />
+    <Folder Include="SortAlgorithms\SearchShakerSort\" />
+    <Folder Include="SortAlgorithms\SearchSort\" />
     <Folder Include="SearchAlgorithms\" />
     <Folder Include="SortAlgorithms\InsertionSort\" />
     <Folder Include="Extensions\" />
+    <Folder Include="SortAlgorithms\BubbleSort\" />
+    <Folder Include="SortAlgorithms\ShakeSort\" />
   </ItemGroup>
 </Project>
