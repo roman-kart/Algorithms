@@ -1,0 +1,15 @@
+C:\Users\Stupid_Guy\Documents\GitHub\Algorithms\Recursion\bin\Debug\net6.0\Recursion.exe
+C:\Users\Stupid_Guy\Documents\GitHub\Algorithms\Recursion\bin\Debug\net6.0\Recursion.deps.json
+C:\Users\Stupid_Guy\Documents\GitHub\Algorithms\Recursion\bin\Debug\net6.0\Recursion.runtimeconfig.json
+C:\Users\Stupid_Guy\Documents\GitHub\Algorithms\Recursion\bin\Debug\net6.0\Recursion.dll
+C:\Users\Stupid_Guy\Documents\GitHub\Algorithms\Recursion\bin\Debug\net6.0\ref\Recursion.dll
+C:\Users\Stupid_Guy\Documents\GitHub\Algorithms\Recursion\bin\Debug\net6.0\Recursion.pdb
+C:\Users\Stupid_Guy\Documents\GitHub\Algorithms\Recursion\obj\Debug\net6.0\Recursion.csproj.AssemblyReference.cache
+C:\Users\Stupid_Guy\Documents\GitHub\Algorithms\Recursion\obj\Debug\net6.0\Recursion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Stupid_Guy\Documents\GitHub\Algorithms\Recursion\obj\Debug\net6.0\Recursion.AssemblyInfoInputs.cache
+C:\Users\Stupid_Guy\Documents\GitHub\Algorithms\Recursion\obj\Debug\net6.0\Recursion.AssemblyInfo.cs
+C:\Users\Stupid_Guy\Documents\GitHub\Algorithms\Recursion\obj\Debug\net6.0\Recursion.csproj.CoreCompileInputs.cache
+C:\Users\Stupid_Guy\Documents\GitHub\Algorithms\Recursion\obj\Debug\net6.0\Recursion.dll
+C:\Users\Stupid_Guy\Documents\GitHub\Algorithms\Recursion\obj\Debug\net6.0\ref\Recursion.dll
+C:\Users\Stupid_Guy\Documents\GitHub\Algorithms\Recursion\obj\Debug\net6.0\Recursion.pdb
+C:\Users\Stupid_Guy\Documents\GitHub\Algorithms\Recursion\obj\Debug\net6.0\Recursion.genruntimeconfig.cache
