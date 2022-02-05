@@ -15,8 +15,7 @@ namespace SortAndSearchAlgorithms
             var step = steps.GetCurrentStep();
             while (step >= 1)
             {
-                step = 1;
-                step = steps.GetCurrentStep();
+                step = 0;
             }
         }
     }

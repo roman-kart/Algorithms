@@ -1,0 +1,12 @@
+C:\Users\Stupid_Guy\Documents\GitHub\Algorithms\Libraries\bin\Debug\net6.0\Libraries.deps.json
+C:\Users\Stupid_Guy\Documents\GitHub\Algorithms\Libraries\bin\Debug\net6.0\Libraries.dll
+C:\Users\Stupid_Guy\Documents\GitHub\Algorithms\Libraries\bin\Debug\net6.0\ref\Libraries.dll
+C:\Users\Stupid_Guy\Documents\GitHub\Algorithms\Libraries\bin\Debug\net6.0\Libraries.pdb
+C:\Users\Stupid_Guy\Documents\GitHub\Algorithms\Libraries\obj\Debug\net6.0\Libraries.csproj.AssemblyReference.cache
+C:\Users\Stupid_Guy\Documents\GitHub\Algorithms\Libraries\obj\Debug\net6.0\Libraries.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Stupid_Guy\Documents\GitHub\Algorithms\Libraries\obj\Debug\net6.0\Libraries.AssemblyInfoInputs.cache
+C:\Users\Stupid_Guy\Documents\GitHub\Algorithms\Libraries\obj\Debug\net6.0\Libraries.AssemblyInfo.cs
+C:\Users\Stupid_Guy\Documents\GitHub\Algorithms\Libraries\obj\Debug\net6.0\Libraries.csproj.CoreCompileInputs.cache
+C:\Users\Stupid_Guy\Documents\GitHub\Algorithms\Libraries\obj\Debug\net6.0\Libraries.dll
+C:\Users\Stupid_Guy\Documents\GitHub\Algorithms\Libraries\obj\Debug\net6.0\ref\Libraries.dll
+C:\Users\Stupid_Guy\Documents\GitHub\Algorithms\Libraries\obj\Debug\net6.0\Libraries.pdb

@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "fjNaIdeK58je4ZwZ3iRiDZBLeLj/Hq7Vn58CQA3kzmTAE7WdGmcK0TDdDK0jLSteH5t1ZgeyHZmCQ9Q4jzz2SQ==",
+  "dgSpecHash": "5Ibci+OvvmCiwzikTnsB1aIiRZ4GoBniE1zmPack7layLMrhEupM7iwT8vTwFfObyIsUyQXNc2uQYRnspo+Gfw==",
   "success": true,
-  "projectFilePath": "/Users/macos/Projects/Algorithms/Algorithms/SortAlgorithms/SortAlgorithms/SortAndSearchAlgorithms.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\Stupid_Guy\\Documents\\GitHub\\Algorithms\\SortAlgorithms\\SortAlgorithms\\SortAndSearchAlgorithms.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Stupid_Guy\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.12\\microsoft.netcore.app.host.win-x64.5.0.12.nupkg.sha512"
+  ],
   "logs": []
 }

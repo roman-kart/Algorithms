@@ -43,28 +43,28 @@ namespace SortAndSearchAlgorithms
                 randomItems.GetCopy()
             );
 
-            Console.WriteLine($"{ExecutionTimer.TimeOfExecution(searchSort)} : searchSort");
-            Console.WriteLine($"{ExecutionTimer.TimeOfExecution(searchShakerSort)} : searchShakerSort");
-            Console.WriteLine($"{ExecutionTimer.TimeOfExecution(insertionSort)} : insertionSort");
-            Console.WriteLine($"{ExecutionTimer.TimeOfExecution(bubbleSort)} : bubbleSort");
-            Console.WriteLine($"{ExecutionTimer.TimeOfExecution(shakeSort)} : shakeSort");
-            Console.WriteLine($"{ExecutionTimer.TimeOfExecution(shellSort)} : shellSort");
+            //Console.WriteLine($"{ExecutionTimer.TimeOfExecution(searchSort)} : searchSort");
+            //Console.WriteLine($"{ExecutionTimer.TimeOfExecution(searchShakerSort)} : searchShakerSort");
+            //Console.WriteLine($"{ExecutionTimer.TimeOfExecution(insertionSort)} : insertionSort");
+            //Console.WriteLine($"{ExecutionTimer.TimeOfExecution(bubbleSort)} : bubbleSort");
+            ////Console.WriteLine($"{ExecutionTimer.TimeOfExecution(shakeSort)} : shakeSort");
+            ////Console.WriteLine($"{ExecutionTimer.TimeOfExecution(shellSort)} : shellSort");
 
-            int[] itemsSorted = searchShakerSort.items.GetCopy();
+            //int[] itemsSorted = searchShakerSort.items.GetCopy();
 
-            var simpleSearchInt = new SearchAlgorithm<int>(
-                SearchAlgorithms.SimpleSearch<int>,
-                itemsSorted,
-                100
-            );
-            var binarySearchInt = new SearchAlgorithm<int>(
-                SearchAlgorithms.BinarySeacrhAlgorithm<int>,
-                itemsSorted,
-                100
-            );
+            //var simpleSearchInt = new SearchAlgorithm<int>(
+            //    SearchAlgorithms.SimpleSearch<int>,
+            //    itemsSorted,
+            //    100
+            //);
+            //var binarySearchInt = new SearchAlgorithm<int>(
+            //    SearchAlgorithms.BinarySeacrhAlgorithm<int>,
+            //    itemsSorted,
+            //    100
+            //);
 
-            Console.WriteLine($"{ExecutionTimer.TimeOfExecution(simpleSearchInt)} : simpleSearchInt");
-            Console.WriteLine($"{ExecutionTimer.TimeOfExecution(binarySearchInt)} : binarySearchInt");
+            //Console.WriteLine($"{ExecutionTimer.TimeOfExecution(simpleSearchInt)} : simpleSearchInt");
+            //Console.WriteLine($"{ExecutionTimer.TimeOfExecution(binarySearchInt)} : binarySearchInt");
         }
     }
 }
