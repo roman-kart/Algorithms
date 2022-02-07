@@ -1,5 +1,7 @@
 ﻿// входные данные
-int[] arr = new int[50];
+using System.Diagnostics;
+
+int[] arr = new int[100000];
 int[] sortedArr = new int[arr.Length];
 arr.InsertRandomInt();
 
@@ -10,6 +12,9 @@ int currentMax; // текущее максимальное
 int currentMinIndex = 0; // индекс текущего минимального
 int currentMaxIndex = 0; // индекс текущего максимального
 int tmp; // переменная для хранения временного значения
+
+var timer = new Stopwatch();
+timer.Start();
 while (leftIndex < rightIndex)
 {
     // присваиваем текущим значениям максимума и минимума элементы, которые находяться на правой и левой границах соответственно
@@ -37,16 +42,5 @@ while (leftIndex < rightIndex)
     rightIndex--;
 }
 
-sortedArr.PrintItems();
-
-Action[] actions = new Action[10];
-for (int i = 0; i < 10; i++)
-{
-    actions[i] = () => { 
-        global::System.Console.WriteLine(i);
-    };
-}
-foreach (var action in actions)
-{
-    action();
-}
+timer.Stop();
+Console.WriteLine(timer.Elapsed);
