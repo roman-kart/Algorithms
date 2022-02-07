@@ -1,0 +1,15 @@
+C:\Users\Stupid_Guy\Documents\GitHub\Algorithms\SearchInGraph\bin\Debug\net6.0\SearchInGraph.exe
+C:\Users\Stupid_Guy\Documents\GitHub\Algorithms\SearchInGraph\bin\Debug\net6.0\SearchInGraph.deps.json
+C:\Users\Stupid_Guy\Documents\GitHub\Algorithms\SearchInGraph\bin\Debug\net6.0\SearchInGraph.runtimeconfig.json
+C:\Users\Stupid_Guy\Documents\GitHub\Algorithms\SearchInGraph\bin\Debug\net6.0\SearchInGraph.dll
+C:\Users\Stupid_Guy\Documents\GitHub\Algorithms\SearchInGraph\bin\Debug\net6.0\ref\SearchInGraph.dll
+C:\Users\Stupid_Guy\Documents\GitHub\Algorithms\SearchInGraph\bin\Debug\net6.0\SearchInGraph.pdb
+C:\Users\Stupid_Guy\Documents\GitHub\Algorithms\SearchInGraph\obj\Debug\net6.0\SearchInGraph.csproj.AssemblyReference.cache
+C:\Users\Stupid_Guy\Documents\GitHub\Algorithms\SearchInGraph\obj\Debug\net6.0\SearchInGraph.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Stupid_Guy\Documents\GitHub\Algorithms\SearchInGraph\obj\Debug\net6.0\SearchInGraph.AssemblyInfoInputs.cache
+C:\Users\Stupid_Guy\Documents\GitHub\Algorithms\SearchInGraph\obj\Debug\net6.0\SearchInGraph.AssemblyInfo.cs
+C:\Users\Stupid_Guy\Documents\GitHub\Algorithms\SearchInGraph\obj\Debug\net6.0\SearchInGraph.csproj.CoreCompileInputs.cache
+C:\Users\Stupid_Guy\Documents\GitHub\Algorithms\SearchInGraph\obj\Debug\net6.0\SearchInGraph.dll
+C:\Users\Stupid_Guy\Documents\GitHub\Algorithms\SearchInGraph\obj\Debug\net6.0\ref\SearchInGraph.dll
+C:\Users\Stupid_Guy\Documents\GitHub\Algorithms\SearchInGraph\obj\Debug\net6.0\SearchInGraph.pdb
+C:\Users\Stupid_Guy\Documents\GitHub\Algorithms\SearchInGraph\obj\Debug\net6.0\SearchInGraph.genruntimeconfig.cache
