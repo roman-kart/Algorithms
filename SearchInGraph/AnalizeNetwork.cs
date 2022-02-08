@@ -54,15 +54,34 @@ namespace SearchInGraph
             return null;
         }
 
-        //public string pathToElement(NetworkElement endpointElement, NetworkElement startPoint)
-        //{
-        //    var currentElement = endpointElement;
-        //    string path = "";
-        //    while (currentElement.ParentNetwork != null)
-        //    {
-        //        path += currentElement.IPAddress + "/";
-        //        currentElement = currentElement.ParentNetwork;
-        //    }
-        //}
+        public static string GetPathToElement(NetworkElement endpointElement, NetworkElement startPoint)
+        {
+            bool isFound = false;
+            string path = getPathToElementRecursion(endpointElement, startPoint, "", out isFound);
+            return path;
+        }
+        private static string getPathToElementRecursion(NetworkElement endpointElement, NetworkElement currentElement, string path, out bool isFound)
+        {
+            if (endpointElement == currentElement)
+            {
+                isFound = true;
+                return currentElement.IPAddress;
+            }
+            else if (currentElement.NetworkElements != null)
+            {
+                foreach (var element in currentElement.NetworkElements)
+                {
+                    bool isFoundCurrent = false;
+                    string result = getPathToElementRecursion(endpointElement, element, path, out isFoundCurrent);
+                    if (isFoundCurrent)
+                    {
+                        isFound=true;
+                        return currentElement.IPAddress + "/" + result;
+                    }
+                }
+            }
+            isFound = false;
+            return null;
+        }
     }
 }
