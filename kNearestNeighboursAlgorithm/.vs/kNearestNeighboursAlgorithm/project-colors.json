@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "cf32a012-e8cf-4c78-b9ba-af5b05f7f1da": {
+      "ProjectGuid": "cf32a012-e8cf-4c78-b9ba-af5b05f7f1da",
+      "DisplayName": "kNearestNeighboursAlgorithm",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

@@ -1,0 +1,90 @@
+Z:\2021_2022 учебный год\31ИС\Учебная практика\Карташев\Algorithms\Algorithms\kNearestNeighboursAlgorithm\kNearestNeighboursAlgorithm\bin\Debug\net5.0\kNearestNeighboursAlgorithm.exe
+Z:\2021_2022 учебный год\31ИС\Учебная практика\Карташев\Algorithms\Algorithms\kNearestNeighboursAlgorithm\kNearestNeighboursAlgorithm\bin\Debug\net5.0\kNearestNeighboursAlgorithm.deps.json
+Z:\2021_2022 учебный год\31ИС\Учебная практика\Карташев\Algorithms\Algorithms\kNearestNeighboursAlgorithm\kNearestNeighboursAlgorithm\bin\Debug\net5.0\kNearestNeighboursAlgorithm.runtimeconfig.json
+Z:\2021_2022 учебный год\31ИС\Учебная практика\Карташев\Algorithms\Algorithms\kNearestNeighboursAlgorithm\kNearestNeighboursAlgorithm\bin\Debug\net5.0\kNearestNeighboursAlgorithm.runtimeconfig.dev.json
+Z:\2021_2022 учебный год\31ИС\Учебная практика\Карташев\Algorithms\Algorithms\kNearestNeighboursAlgorithm\kNearestNeighboursAlgorithm\bin\Debug\net5.0\kNearestNeighboursAlgorithm.dll
+Z:\2021_2022 учебный год\31ИС\Учебная практика\Карташев\Algorithms\Algorithms\kNearestNeighboursAlgorithm\kNearestNeighboursAlgorithm\bin\Debug\net5.0\ref\kNearestNeighboursAlgorithm.dll
+Z:\2021_2022 учебный год\31ИС\Учебная практика\Карташев\Algorithms\Algorithms\kNearestNeighboursAlgorithm\kNearestNeighboursAlgorithm\bin\Debug\net5.0\kNearestNeighboursAlgorithm.pdb
+Z:\2021_2022 учебный год\31ИС\Учебная практика\Карташев\Algorithms\Algorithms\kNearestNeighboursAlgorithm\kNearestNeighboursAlgorithm\bin\Debug\net5.0\DevExpress.Data.v21.1.dll
+Z:\2021_2022 учебный год\31ИС\Учебная практика\Карташев\Algorithms\Algorithms\kNearestNeighboursAlgorithm\kNearestNeighboursAlgorithm\bin\Debug\net5.0\DevExpress.Xpo.v21.1.dll
+Z:\2021_2022 учебный год\31ИС\Учебная практика\Карташев\Algorithms\Algorithms\kNearestNeighboursAlgorithm\kNearestNeighboursAlgorithm\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+Z:\2021_2022 учебный год\31ИС\Учебная практика\Карташев\Algorithms\Algorithms\kNearestNeighboursAlgorithm\kNearestNeighboursAlgorithm\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+Z:\2021_2022 учебный год\31ИС\Учебная практика\Карташев\Algorithms\Algorithms\kNearestNeighboursAlgorithm\kNearestNeighboursAlgorithm\bin\Debug\net5.0\Microsoft.Win32.SystemEvents.dll
+Z:\2021_2022 учебный год\31ИС\Учебная практика\Карташев\Algorithms\Algorithms\kNearestNeighboursAlgorithm\kNearestNeighboursAlgorithm\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+Z:\2021_2022 учебный год\31ИС\Учебная практика\Карташев\Algorithms\Algorithms\kNearestNeighboursAlgorithm\kNearestNeighboursAlgorithm\bin\Debug\net5.0\System.Data.SqlClient.dll
+Z:\2021_2022 учебный год\31ИС\Учебная практика\Карташев\Algorithms\Algorithms\kNearestNeighboursAlgorithm\kNearestNeighboursAlgorithm\bin\Debug\net5.0\System.Diagnostics.PerformanceCounter.dll
+Z:\2021_2022 учебный год\31ИС\Учебная практика\Карташев\Algorithms\Algorithms\kNearestNeighboursAlgorithm\kNearestNeighboursAlgorithm\bin\Debug\net5.0\System.Drawing.Common.dll
+Z:\2021_2022 учебный год\31ИС\Учебная практика\Карташев\Algorithms\Algorithms\kNearestNeighboursAlgorithm\kNearestNeighboursAlgorithm\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+Z:\2021_2022 учебный год\31ИС\Учебная практика\Карташев\Algorithms\Algorithms\kNearestNeighboursAlgorithm\kNearestNeighboursAlgorithm\bin\Debug\net5.0\System.Security.Permissions.dll
+Z:\2021_2022 учебный год\31ИС\Учебная практика\Карташев\Algorithms\Algorithms\kNearestNeighboursAlgorithm\kNearestNeighboursAlgorithm\bin\Debug\net5.0\System.ServiceModel.Http.dll
+Z:\2021_2022 учебный год\31ИС\Учебная практика\Карташев\Algorithms\Algorithms\kNearestNeighboursAlgorithm\kNearestNeighboursAlgorithm\bin\Debug\net5.0\System.ServiceModel.NetTcp.dll
+Z:\2021_2022 учебный год\31ИС\Учебная практика\Карташев\Algorithms\Algorithms\kNearestNeighboursAlgorithm\kNearestNeighboursAlgorithm\bin\Debug\net5.0\System.ServiceModel.Primitives.dll
+Z:\2021_2022 учебный год\31ИС\Учебная практика\Карташев\Algorithms\Algorithms\kNearestNeighboursAlgorithm\kNearestNeighboursAlgorithm\bin\Debug\net5.0\System.ServiceModel.dll
+Z:\2021_2022 учебный год\31ИС\Учебная практика\Карташев\Algorithms\Algorithms\kNearestNeighboursAlgorithm\kNearestNeighboursAlgorithm\bin\Debug\net5.0\System.ServiceModel.Security.dll
+Z:\2021_2022 учебный год\31ИС\Учебная практика\Карташев\Algorithms\Algorithms\kNearestNeighboursAlgorithm\kNearestNeighboursAlgorithm\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.0\Microsoft.Win32.SystemEvents.dll
+Z:\2021_2022 учебный год\31ИС\Учебная практика\Карташев\Algorithms\Algorithms\kNearestNeighboursAlgorithm\kNearestNeighboursAlgorithm\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+Z:\2021_2022 учебный год\31ИС\Учебная практика\Карташев\Algorithms\Algorithms\kNearestNeighboursAlgorithm\kNearestNeighboursAlgorithm\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+Z:\2021_2022 учебный год\31ИС\Учебная практика\Карташев\Algorithms\Algorithms\kNearestNeighboursAlgorithm\kNearestNeighboursAlgorithm\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+Z:\2021_2022 учебный год\31ИС\Учебная практика\Карташев\Algorithms\Algorithms\kNearestNeighboursAlgorithm\kNearestNeighboursAlgorithm\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+Z:\2021_2022 учебный год\31ИС\Учебная практика\Карташев\Algorithms\Algorithms\kNearestNeighboursAlgorithm\kNearestNeighboursAlgorithm\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+Z:\2021_2022 учебный год\31ИС\Учебная практика\Карташев\Algorithms\Algorithms\kNearestNeighboursAlgorithm\kNearestNeighboursAlgorithm\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.0\System.Diagnostics.PerformanceCounter.dll
+Z:\2021_2022 учебный год\31ИС\Учебная практика\Карташев\Algorithms\Algorithms\kNearestNeighboursAlgorithm\kNearestNeighboursAlgorithm\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.0\System.Drawing.Common.dll
+Z:\2021_2022 учебный год\31ИС\Учебная практика\Карташев\Algorithms\Algorithms\kNearestNeighboursAlgorithm\kNearestNeighboursAlgorithm\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.0\System.Drawing.Common.dll
+Z:\2021_2022 учебный год\31ИС\Учебная практика\Карташев\Algorithms\Algorithms\kNearestNeighboursAlgorithm\kNearestNeighboursAlgorithm\bin\Debug\net5.0\runtimes\unix\lib\netstandard2.0\System.Private.ServiceModel.dll
+Z:\2021_2022 учебный год\31ИС\Учебная практика\Карташев\Algorithms\Algorithms\kNearestNeighboursAlgorithm\kNearestNeighboursAlgorithm\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Private.ServiceModel.dll
+Z:\2021_2022 учебный год\31ИС\Учебная практика\Карташев\Algorithms\Algorithms\kNearestNeighboursAlgorithm\kNearestNeighboursAlgorithm\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+Z:\2021_2022 учебный год\31ИС\Учебная практика\Карташев\Algorithms\Algorithms\kNearestNeighboursAlgorithm\kNearestNeighboursAlgorithm\obj\Debug\net5.0\kNearestNeighboursAlgorithm.GeneratedMSBuildEditorConfig.editorconfig
+Z:\2021_2022 учебный год\31ИС\Учебная практика\Карташев\Algorithms\Algorithms\kNearestNeighboursAlgorithm\kNearestNeighboursAlgorithm\obj\Debug\net5.0\kNearestNeighboursAlgorithm.AssemblyInfoInputs.cache
+Z:\2021_2022 учебный год\31ИС\Учебная практика\Карташев\Algorithms\Algorithms\kNearestNeighboursAlgorithm\kNearestNeighboursAlgorithm\obj\Debug\net5.0\kNearestNeighboursAlgorithm.AssemblyInfo.cs
+Z:\2021_2022 учебный год\31ИС\Учебная практика\Карташев\Algorithms\Algorithms\kNearestNeighboursAlgorithm\kNearestNeighboursAlgorithm\obj\Debug\net5.0\kNearestNeighboursAlgorithm.csproj.CoreCompileInputs.cache
+Z:\2021_2022 учебный год\31ИС\Учебная практика\Карташев\Algorithms\Algorithms\kNearestNeighboursAlgorithm\kNearestNeighboursAlgorithm\obj\Debug\net5.0\kNearestNeighboursAlgorithm.csproj.CopyComplete
+Z:\2021_2022 учебный год\31ИС\Учебная практика\Карташев\Algorithms\Algorithms\kNearestNeighboursAlgorithm\kNearestNeighboursAlgorithm\obj\Debug\net5.0\kNearestNeighboursAlgorithm.dll
+Z:\2021_2022 учебный год\31ИС\Учебная практика\Карташев\Algorithms\Algorithms\kNearestNeighboursAlgorithm\kNearestNeighboursAlgorithm\obj\Debug\net5.0\ref\kNearestNeighboursAlgorithm.dll
+Z:\2021_2022 учебный год\31ИС\Учебная практика\Карташев\Algorithms\Algorithms\kNearestNeighboursAlgorithm\kNearestNeighboursAlgorithm\obj\Debug\net5.0\kNearestNeighboursAlgorithm.pdb
+Z:\2021_2022 учебный год\31ИС\Учебная практика\Карташев\Algorithms\Algorithms\kNearestNeighboursAlgorithm\kNearestNeighboursAlgorithm\obj\Debug\net5.0\kNearestNeighboursAlgorithm.genruntimeconfig.cache
+Z:\2021_2022 учебный год\31ИС\Учебная практика\Карташев\Algorithms\Algorithms\kNearestNeighboursAlgorithm\kNearestNeighboursAlgorithm\obj\Debug\net5.0\kNearestNeighboursAlgorithm.csproj.AssemblyReference.cache
+C:\Users\Stupid_Guy\Documents\GitHub\Algorithms\kNearestNeighboursAlgorithm\kNearestNeighboursAlgorithm\bin\Debug\net5.0\kNearestNeighboursAlgorithm.exe
+C:\Users\Stupid_Guy\Documents\GitHub\Algorithms\kNearestNeighboursAlgorithm\kNearestNeighboursAlgorithm\bin\Debug\net5.0\kNearestNeighboursAlgorithm.deps.json
+C:\Users\Stupid_Guy\Documents\GitHub\Algorithms\kNearestNeighboursAlgorithm\kNearestNeighboursAlgorithm\bin\Debug\net5.0\kNearestNeighboursAlgorithm.runtimeconfig.json
+C:\Users\Stupid_Guy\Documents\GitHub\Algorithms\kNearestNeighboursAlgorithm\kNearestNeighboursAlgorithm\bin\Debug\net5.0\kNearestNeighboursAlgorithm.runtimeconfig.dev.json
+C:\Users\Stupid_Guy\Documents\GitHub\Algorithms\kNearestNeighboursAlgorithm\kNearestNeighboursAlgorithm\bin\Debug\net5.0\kNearestNeighboursAlgorithm.dll
+C:\Users\Stupid_Guy\Documents\GitHub\Algorithms\kNearestNeighboursAlgorithm\kNearestNeighboursAlgorithm\bin\Debug\net5.0\ref\kNearestNeighboursAlgorithm.dll
+C:\Users\Stupid_Guy\Documents\GitHub\Algorithms\kNearestNeighboursAlgorithm\kNearestNeighboursAlgorithm\bin\Debug\net5.0\kNearestNeighboursAlgorithm.pdb
+C:\Users\Stupid_Guy\Documents\GitHub\Algorithms\kNearestNeighboursAlgorithm\kNearestNeighboursAlgorithm\bin\Debug\net5.0\DevExpress.Data.v21.1.dll
+C:\Users\Stupid_Guy\Documents\GitHub\Algorithms\kNearestNeighboursAlgorithm\kNearestNeighboursAlgorithm\bin\Debug\net5.0\DevExpress.Xpo.v21.1.dll
+C:\Users\Stupid_Guy\Documents\GitHub\Algorithms\kNearestNeighboursAlgorithm\kNearestNeighboursAlgorithm\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Stupid_Guy\Documents\GitHub\Algorithms\kNearestNeighboursAlgorithm\kNearestNeighboursAlgorithm\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Stupid_Guy\Documents\GitHub\Algorithms\kNearestNeighboursAlgorithm\kNearestNeighboursAlgorithm\bin\Debug\net5.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Stupid_Guy\Documents\GitHub\Algorithms\kNearestNeighboursAlgorithm\kNearestNeighboursAlgorithm\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Stupid_Guy\Documents\GitHub\Algorithms\kNearestNeighboursAlgorithm\kNearestNeighboursAlgorithm\bin\Debug\net5.0\System.Data.SqlClient.dll
+C:\Users\Stupid_Guy\Documents\GitHub\Algorithms\kNearestNeighboursAlgorithm\kNearestNeighboursAlgorithm\bin\Debug\net5.0\System.Diagnostics.PerformanceCounter.dll
+C:\Users\Stupid_Guy\Documents\GitHub\Algorithms\kNearestNeighboursAlgorithm\kNearestNeighboursAlgorithm\bin\Debug\net5.0\System.Drawing.Common.dll
+C:\Users\Stupid_Guy\Documents\GitHub\Algorithms\kNearestNeighboursAlgorithm\kNearestNeighboursAlgorithm\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Stupid_Guy\Documents\GitHub\Algorithms\kNearestNeighboursAlgorithm\kNearestNeighboursAlgorithm\bin\Debug\net5.0\System.Security.Permissions.dll
+C:\Users\Stupid_Guy\Documents\GitHub\Algorithms\kNearestNeighboursAlgorithm\kNearestNeighboursAlgorithm\bin\Debug\net5.0\System.ServiceModel.Http.dll
+C:\Users\Stupid_Guy\Documents\GitHub\Algorithms\kNearestNeighboursAlgorithm\kNearestNeighboursAlgorithm\bin\Debug\net5.0\System.ServiceModel.NetTcp.dll
+C:\Users\Stupid_Guy\Documents\GitHub\Algorithms\kNearestNeighboursAlgorithm\kNearestNeighboursAlgorithm\bin\Debug\net5.0\System.ServiceModel.Primitives.dll
+C:\Users\Stupid_Guy\Documents\GitHub\Algorithms\kNearestNeighboursAlgorithm\kNearestNeighboursAlgorithm\bin\Debug\net5.0\System.ServiceModel.dll
+C:\Users\Stupid_Guy\Documents\GitHub\Algorithms\kNearestNeighboursAlgorithm\kNearestNeighboursAlgorithm\bin\Debug\net5.0\System.ServiceModel.Security.dll
+C:\Users\Stupid_Guy\Documents\GitHub\Algorithms\kNearestNeighboursAlgorithm\kNearestNeighboursAlgorithm\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Stupid_Guy\Documents\GitHub\Algorithms\kNearestNeighboursAlgorithm\kNearestNeighboursAlgorithm\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+C:\Users\Stupid_Guy\Documents\GitHub\Algorithms\kNearestNeighboursAlgorithm\kNearestNeighboursAlgorithm\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+C:\Users\Stupid_Guy\Documents\GitHub\Algorithms\kNearestNeighboursAlgorithm\kNearestNeighboursAlgorithm\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+C:\Users\Stupid_Guy\Documents\GitHub\Algorithms\kNearestNeighboursAlgorithm\kNearestNeighboursAlgorithm\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Stupid_Guy\Documents\GitHub\Algorithms\kNearestNeighboursAlgorithm\kNearestNeighboursAlgorithm\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Stupid_Guy\Documents\GitHub\Algorithms\kNearestNeighboursAlgorithm\kNearestNeighboursAlgorithm\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.0\System.Diagnostics.PerformanceCounter.dll
+C:\Users\Stupid_Guy\Documents\GitHub\Algorithms\kNearestNeighboursAlgorithm\kNearestNeighboursAlgorithm\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.0\System.Drawing.Common.dll
+C:\Users\Stupid_Guy\Documents\GitHub\Algorithms\kNearestNeighboursAlgorithm\kNearestNeighboursAlgorithm\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.0\System.Drawing.Common.dll
+C:\Users\Stupid_Guy\Documents\GitHub\Algorithms\kNearestNeighboursAlgorithm\kNearestNeighboursAlgorithm\bin\Debug\net5.0\runtimes\unix\lib\netstandard2.0\System.Private.ServiceModel.dll
+C:\Users\Stupid_Guy\Documents\GitHub\Algorithms\kNearestNeighboursAlgorithm\kNearestNeighboursAlgorithm\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Private.ServiceModel.dll
+C:\Users\Stupid_Guy\Documents\GitHub\Algorithms\kNearestNeighboursAlgorithm\kNearestNeighboursAlgorithm\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Stupid_Guy\Documents\GitHub\Algorithms\kNearestNeighboursAlgorithm\kNearestNeighboursAlgorithm\obj\Debug\net5.0\kNearestNeighboursAlgorithm.csproj.AssemblyReference.cache
+C:\Users\Stupid_Guy\Documents\GitHub\Algorithms\kNearestNeighboursAlgorithm\kNearestNeighboursAlgorithm\obj\Debug\net5.0\kNearestNeighboursAlgorithm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Stupid_Guy\Documents\GitHub\Algorithms\kNearestNeighboursAlgorithm\kNearestNeighboursAlgorithm\obj\Debug\net5.0\kNearestNeighboursAlgorithm.AssemblyInfoInputs.cache
+C:\Users\Stupid_Guy\Documents\GitHub\Algorithms\kNearestNeighboursAlgorithm\kNearestNeighboursAlgorithm\obj\Debug\net5.0\kNearestNeighboursAlgorithm.AssemblyInfo.cs
+C:\Users\Stupid_Guy\Documents\GitHub\Algorithms\kNearestNeighboursAlgorithm\kNearestNeighboursAlgorithm\obj\Debug\net5.0\kNearestNeighboursAlgorithm.csproj.CoreCompileInputs.cache
+C:\Users\Stupid_Guy\Documents\GitHub\Algorithms\kNearestNeighboursAlgorithm\kNearestNeighboursAlgorithm\obj\Debug\net5.0\kNearestNeighboursAlgorithm.csproj.CopyComplete
+C:\Users\Stupid_Guy\Documents\GitHub\Algorithms\kNearestNeighboursAlgorithm\kNearestNeighboursAlgorithm\obj\Debug\net5.0\kNearestNeighboursAlgorithm.dll
+C:\Users\Stupid_Guy\Documents\GitHub\Algorithms\kNearestNeighboursAlgorithm\kNearestNeighboursAlgorithm\obj\Debug\net5.0\ref\kNearestNeighboursAlgorithm.dll
+C:\Users\Stupid_Guy\Documents\GitHub\Algorithms\kNearestNeighboursAlgorithm\kNearestNeighboursAlgorithm\obj\Debug\net5.0\kNearestNeighboursAlgorithm.pdb
+C:\Users\Stupid_Guy\Documents\GitHub\Algorithms\kNearestNeighboursAlgorithm\kNearestNeighboursAlgorithm\obj\Debug\net5.0\kNearestNeighboursAlgorithm.genruntimeconfig.cache
